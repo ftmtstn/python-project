@@ -1,1 +1,2 @@
 font ende değişiklik yaptım
+front endde ikici satırı yazdım
